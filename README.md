@@ -2,7 +2,7 @@
 
 Round buttons that float above every window on Windows, one per app. Click a button to bring its app to the front, or open it if it isn't running. Click it again to minimise the app.
 
-Floats is a single [AutoHotkey v2](https://www.autohotkey.com) script, `Floats.ahk`. There is nothing to build or install.
+Floats is a single [AutoHotkey v2](https://www.autohotkey.com) script, `Floats.ahk`. Once AutoHotkey is installed, there is nothing else to build or install.
 
 ## Features
 
@@ -18,9 +18,10 @@ Floats is a single [AutoHotkey v2](https://www.autohotkey.com) script, `Floats.a
 
 ## Getting started
 
-1. Install [AutoHotkey v2](https://www.autohotkey.com). Keep the standard install folder, `C:\Program Files\AutoHotkey`. UI Access only works from there.
-2. Double-click `Floats.ahk`. The manager opens.
-3. Click **Add…**, then pick what the button opens. **Apps…** lists your installed apps, or use **File…**, **Folder…** or a web address. Then click **Save**. Once you have a button, you can also just drop files and shortcuts on it.
+1. Install AutoHotkey v2: [download the installer](https://www.autohotkey.com/download/ahk-v2.exe), or see [all downloads](https://www.autohotkey.com/download/). Install it for all users, in the standard folder `C:\Program Files\AutoHotkey`. UI Access only works under Program Files. Without it Floats still runs, but a full-screen window can cover the buttons.
+2. [Download Floats as a ZIP](https://github.com/bbboghara/floats/archive/refs/heads/main.zip) and unzip it to a folder you'll keep. Floats starts with Windows from that folder.
+3. Double-click `Floats.ahk`. The manager opens.
+4. Click **Add…**, then pick what the button opens. **Apps…** lists your installed apps, or use **File…**, **Folder…** or a web address. Then click **Save**. Once you have a button, you can also just drop files and shortcuts on it.
 
 On first run Floats also:
 

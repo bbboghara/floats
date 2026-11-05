@@ -1,4 +1,4 @@
-; Floats - floating buttons for your apps.  Needs AutoHotkey v2 (free): https://www.autohotkey.com
+; Floats - floating buttons for your apps.  Needs AutoHotkey v2 (free): https://www.autohotkey.com/download/
 ;
 ;   - Every button floats above all windows. Click it: bring that app to the front (opens it if it is
 ;     not running). Click again while the app is in front: minimise it.
